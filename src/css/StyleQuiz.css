@@ -1,0 +1,43 @@
+.answers {
+  margin-top: 3rem;
+}
+
+.questionDiv {
+  background-color: rgb(236, 222, 255);
+  padding: 16px;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 5px;
+}
+
+.quizButton {
+  font-size: 17px;
+  min-width: 280px;
+  height: 3rem;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(175, 175, 175);
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+.quizButton:hover {
+  background-color: rgb(255, 235, 208);
+}
+
+ul {
+  padding-left: 0;
+}
+
+.quizPoints {
+  padding: 16px;
+  margin-bottom: 35px;
+  text-align: left;
+  font-size: 15px;
+}
+
+.quizButtonDiv {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 32px 0;
+}

@@ -1,0 +1,225 @@
+
+    // {
+    //   "id": "11",
+    //   "questionsMello": {
+    //     "question": "Vem vann Melodifestivalen 2020?",
+    //     "wrongAnswer1": "Mariette",
+    //     "wrongAnswer2": "Robin Bengtsson",
+    //     "correctAnswer": "The Mamas Rätt svar",
+    //     "wrongAnswer3": "Victor Crone"
+    //   }
+    // },
+
+    // {
+    //   "id": "12",
+    //   "questionsMello": {
+    //     "question": "Hur många gånger har ABBA tävlat i Melodifestivalen?",
+    //     "wrongAnswer1": "Två gånger",
+    //     "correctAnswer": " Tre gånger Rätt svar",
+    //     "wrongAnswer2": "Fyra gånger",
+    //     "wrongAnswer3": "Fem gånger"
+    //   }
+    // },
+
+    // {
+    //   "id": "13",
+    //   "questionsMello": {
+    //     "question": "Vilket år vann Carola Melodifestivalen för första gången?",
+    //     "wrongAnswer1": "1982",
+    //     "wrongAnswer2": " 1983",
+    //     "wrongAnswer3": "1984",
+    //     "correctAnswer": "1986 Rätt svar"
+    //   }
+    // },
+
+    // {
+    //   "id": "14",
+    //   "questionsMello": {
+    //     "question": "Vem blev Sveriges representant i Eurovision Song Contest 2010?",
+    //     "wrongAnswer1": "Darin",
+    //     "correctAnswer": "Anna Bergendahl Rätt svar",
+    //     "wrongAnswer2": "Eric Saade",
+    //     "wrongAnswer3": "Salem Al Fakir"
+    //   }
+    // },
+
+    // {
+    //   "id": "15",
+    //   "questionsMello": {
+    //     "question": "Vilken plats kom Loreen i Eurovision Song Contest efter att ha vunnit Melodifestivalen 2012?",
+    //     "correctAnswer": "Första plats Rätt svar",
+    //     "wrongAnswer1": " Andra plats",
+    //     "wrongAnswer2": "Tredje plats",
+    //     "wrongAnswer3": " Fjärde plats"
+    //   }
+    // },
+
+    // {
+    //   "id": "16",
+    //   "questionsMello": {
+    //     "question": "Hur många gånger har Sverige vunnit Eurovision Song Contest?",
+    //     "correctAnswer": "Sex gånger Rätt svar",
+    //     "wrongAnswer1": "Sju gånger",
+    //     "wrongAnswer2": "Åtta gånger",
+    //     "wrongAnswer3": "Nio gånger"
+    //   }
+    // },
+
+    // {
+    //   "id": "17",
+    //   "questionsMello": {
+    //     "question": "Vilken artist har vunnit Melodifestivalen flest gånger?",
+    //     "wrongAnswer1": "Lena Philipsson",
+    //     "wrongAnswer2": "Carola",
+    //     "wrongAnswer3": "Charlotte Perrelli",
+    //     "correctAnswer": "Perrelli Rätt svar"
+    //   }
+    // },
+    // {
+    //   "id": "18",
+    //   "questionsMello": {
+    //     "question": "Vem var programledare för Melodifestivalen 2019?",
+    //     "wrongAnswer1": "Eric Saade",
+    //     "wrongAnswer2": "Sarah Dawn Finer",
+    //     "correctAnswer": "Marika Carlsson, Eric Saade, Kodjo Akolor, Sarah Dawn Finer Rätt svar",
+    //     "wrongAnswer3": "Gina Dirawi"
+    //   }
+    // },
+
+    // {
+    //   "id": "19",
+    //   "questionsMello": {
+    //     "question": "Vilket år debuterade Melodifestivalen?",
+    //     "wrongAnswer1": "1955",
+    //     "wrongAnswer2": "1958",
+    //     "correctAnswer": "1959 Rätt svar",
+    //     "wrongAnswer3": "1961"
+    //   }
+    // },
+
+    // {
+    //   "id": "20",
+    //   "questionsMello": {
+    //     "question": "Vilken stad har arrangerat Melodifestivalens final flest gånger?",
+    //     "wrongAnswer1": "Malmö",
+    //     "wrongAnswer2": "Göteborg",
+    //     "correctAnswer": "Stockholm Rätt svar",
+    //     "wrongAnswer3": "Linköping"
+    //   }
+    // },
+
+    // {
+    //   "id": "21",
+    //   "questionsFomel1": {
+    //     "question": "Vilken förare har vunnit flest Formel 1-mästerskap?",
+    //     "wrongAnswer1": "Michael Schumacher",
+    //     "wrongAnswer2": "Ayrton Senna",
+    //     "wrongAnswer3": "Alain Prost",
+    //     "correctAnswer": "Lewis Hamilton Rätt svar"
+    //   }
+    // },
+
+    // {
+    //   "id": "22",
+    //   "questionsFomel1": {
+    //     "question": "Vilket team vann konstruktörsmästerskapet i Formel 1 2019?",
+    //     "wrongAnswer1": "Red Bull Racing",
+    //     "wrongAnswer2": "Scuderia Ferrari",
+    //     "correctAnswer": "Mercedes-AMG Petronas Rätt svar",
+    //     "wrongAnswer3": "McLaren F1 Team"
+    //   }
+    // },
+
+    // {
+    //   "id": "23",
+    //   "questionsFomel1": {
+    //     "question": "Vilken förare satte det snabbaste varvet någonsin i en F1-kvalificering på Monza 2020?",
+    //     "wrongAnswer1": "Lando Norris",
+    //     "wrongAnswer2": "Max Verstappen",
+    //     "wrongAnswer3": "Valtteri Bottas",
+    //     "correctAnswer": "Lewis Hamilton Rätt svar"
+    //   }
+    // },
+
+    // {
+    //   "id": "24",
+    //   "questionsFomel1": {
+    //     "question": "Vilken bana är värd för det brittiska Grand Prix?",
+    //     "correctAnswer": "Silverstone Rätt svar",
+    //     "wrongAnswer1": "Brands Hatch",
+    //     "wrongAnswer2": "Donington Park",
+    //     "wrongAnswer3": "Goodwood"
+    //   }
+    // },
+
+    // {
+    //   "id": "25",
+    //   "questionsFomel1": {
+    //     "question": "Vilken förare vann Formel 1-världsmästerskapet 1988?",
+    //     "wrongAnswer1": "Nigel Mansell",
+    //     "wrongAnswer2": "Alain Prost",
+    //     "correctAnswer": "Ayrton Senna Rätt svar",
+    //     "wrongAnswer3": "Nelson Piquet"
+    //   }
+    // },
+
+    // {
+    //   "id": "26",
+    //   "questionsFomel1": {
+    //     "question": "Hur många punkter får en förare för att vinna ett F1-lopp?",
+    //     "wrongAnswer1": "20 poäng",
+    //     "correctAnswer": "25 poäng Rätt svar",
+    //     "wrongAnswer2": "30 poäng",
+    //     "wrongAnswer3": "35 poäng"
+    //   }
+    // },
+
+    // {
+    //   "id": "27",
+    //   "questionsFomel1": {
+    //     "question": "Vilket team tävlade den legendariska föraren Juan Manuel Fangio för när han vann sitt sista mästerskap 1957?",
+    //     "wrongAnswer1": "Ferrari",
+    //     "wrongAnswer2": "Mercedes",
+    //     "correctAnswer": "Maserati Rätt svar",
+    //     "wrongAnswer3": "Alfa Romeo"
+    //   }
+    // },
+
+    // {
+    //   "id": "28",
+    //   "questionsFomel1": {
+    //     "question": "Vilken förare blev den yngsta världsmästaren i Formel 1's historia 2008?",
+    //     "wrongAnswer1": "Fernando Alonso",
+    //     "correctAnswer": "Lewis Hamilton Rätt svar",
+    //     "wrongAnswer2": "Sebastian Vettel",
+    //     "wrongAnswer3": "Max Verstappen"
+    //   }
+    // },
+
+    // {
+    //   "id": "29",
+    //   "questionsFomel1": {
+    //     "question": "Vilket team var Sebastian Vettel med när han vann sin första Formel 1-titel 2010?",
+    //     "wrongAnswer1": "McLaren",
+    //     "correctAnswer": "Red Bull Racing Rätt svar",
+    //     "wrongAnswer2": "Ferrari",
+    //     "wrongAnswer3": "Mercedes"
+    //   }
+    // },
+
+    // {
+    //   "id": "30",
+    //   "questionsFomel1": {
+    //     "question": "Vilken formel 1-bana är känd för Eau Rouge/Raidillon-kombinationen?",
+    //     "wrongAnswer1": "Monza",
+    //     "correctAnswer": "Circuit de Spa-Francorchamps Rätt svar",
+    //     "wrongAnswer2": "Circuit de Monaco",
+    //     "wrongAnswer3": "Silverstone"
+    //   }
+    // }
+
+
+  {
+      "id": "11",
+      "questionsInterior": { "image": ".././src/assets/interior.jpeg" }
+    }

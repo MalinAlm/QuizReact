@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #fafafa;
+  background-image: url('./assets/quizBackground.jpeg');
+  background-size: cover;
+}
+
+.quizH1 {
+  text-transform: capitalize;
+  margin-bottom: 7rem;
+}
+
+a {
+  color: rgb(40, 40, 40);
+}
+
+a:hover {
+  color: rgb(204, 255, 198);
+}

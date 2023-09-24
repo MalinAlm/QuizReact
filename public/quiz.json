@@ -1,0 +1,90 @@
+{
+  "swedishQuiz": [
+    {
+      "id": "1",
+      "questionsInterior": {
+        "question": "Vilken av följande är inte en inredningsstil?",
+        "answers": ["Skandinavisk", "Minimalistisk", "Art Deco"],
+        "correctAnswer": "Harmonisk"
+      }
+    },
+
+    {
+      "id": "2",
+      "questionsInterior": {
+        "question": "Vilket material är mest använt i skandinavisk design?",
+        "answers": ["Bambu", "Plast", "Glas"],
+        "correctAnswer": "Trä"
+      }
+    },
+    {
+      "id": "3",
+      "questionsInterior": {
+        "question": "Vilket av följande varumärken kommer ursprungligen från Sverige?",
+        "answers": ["BoConcept", "Vitra", "Herman Miller"],
+        "correctAnswer": "IKEA"
+      }
+    },
+
+    {
+      "id": "4",
+      "questionsInterior": {
+        "question": "Vilken typ av möbler är Eames mest kända för att ha designat?",
+        "answers": ["Bokhyllor", "Soffor", "Matbord"],
+        "correctAnswer": "Stolar"
+      }
+    },
+
+    {
+      "id": "5",
+      "questionsInterior": {
+        "question": "Vilken inredningsstil kännetecknas ofta av nautiska inslag?",
+        "answers": ["Minimalistisk", "Rustik", "Modern"],
+        "correctAnswer": "Kustnära"
+      }
+    },
+
+    {
+      "id": "6",
+      "questionsInterior": {
+        "question": "Vad är en ottoman inom inredning?",
+        "answers": ["En typ av gardin", "En typ av matta", "En typ av säng"],
+        "correctAnswer": "En typ av pall eller fotpall"
+      }
+    },
+
+    {
+      "id": "7",
+      "questionsInterior": {
+        "question": "Vad är en Chesterfield?",
+        "answers": ["En typ av lampa", "En typ av spegel", "En typ av bord"],
+        "correctAnswer": "En typ av soffa"
+      }
+    },
+
+    {
+      "id": "8",
+      "questionsInterior": {
+        "question": "Vem designade den berömda Barcelona-stolen?",
+        "answers": ["Charles Eames", "Le Corbusier", "Philippe Starck"],
+        "correctAnswer": "Ludwig Mies van der Rohe"
+      }
+    },
+    {
+      "id": "9",
+      "questionsInterior": {
+        "question": "Vad är en 'loft' i inredningssammanhang?",
+        "answers": ["En soffa", "En spegel", "En matta"],
+        "correctAnswer": "Ett öppet utrymme"
+      }
+    },
+    {
+      "id": "10",
+      "questionsInterior": {
+        "question": "Vilket material är mest förknippat med industriell inredningsstil?",
+        "answers": ["Glas", "Marmor", "Guld"],
+        "correctAnswer": "Råmetall och sten"
+      }
+    }
+  ]
+}

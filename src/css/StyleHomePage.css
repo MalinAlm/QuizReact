@@ -1,0 +1,43 @@
+.backgroundSection1 {
+  background: url('../assets/imgStartSmooth.png');
+  width: auto;
+  height: 51vw;
+  background-size: cover;
+}
+
+#quizButton {
+  width: 30vw;
+  padding: 1rem;
+  font-size: 20px;
+  margin-top: 16vh;
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userNameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.headingStyle {
+  color: #fafafa;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10vh;
+  padding-top: 6rem;
+  text-align: center;
+}
+
+.userNameInput {
+  margin-bottom: 1rem;
+}
+
+.divUserContainer {
+  margin-top: 7rem;
+}
